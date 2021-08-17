@@ -3,4 +3,7 @@
   <groupId>test.jenkins</groupId>
   <artifactId>test-jenkins-sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  <finalName>test-jenkins-sample</finalName>
+  </build>
 </project>
